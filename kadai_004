@@ -7,7 +7,7 @@ PS C:\Users\JY\git_challenge> git commit --m "Hello, World!"
  create mode 100644 hello_world.txt
 PS C:\Users\JY\git_challenge> git add hello_world.txt
 PS C:\Users\JY\git_challenge> git commit --m "こんにちは、世界！" 
-[main 4ea9edc] 縺薙ｓ縺ｫ縺｡縺ｯ縲∽ｸ也阜・
+[main 4ea9edc] こんにちは、世界！
  1 file changed, 2 insertions(+), 1 deletion(-)
 PS C:\Users\JY\git_challenge> git log --oneline
 4ea9edc (HEAD -> main) こんにちは、世界！
